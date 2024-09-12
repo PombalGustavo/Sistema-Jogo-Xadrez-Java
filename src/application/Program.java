@@ -15,7 +15,7 @@ public class Program {
         ChessMatch chessMatch = new ChessMatch();
 
 
-        while (true) {
+        while(true) {
 
             try {
 
